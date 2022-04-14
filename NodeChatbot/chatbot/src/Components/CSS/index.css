@@ -1,0 +1,30 @@
+/*
+ Note Component CSS
+*/
+  .NOTES_DIV {
+    background-color: white;
+    color: black;
+    width: fit-content;
+    height: fit-content;
+  }
+  
+  .PINK_B {
+      background-color: pink;
+      width: 25%;
+      height: 2em;
+      
+    }
+    
+  .AQUA_B {
+    background-color: aqua;
+    width: 25%;
+    height: 2em;
+    margin: 5%;
+  }
+  
+  .WHITE_B {
+    background-color: white;
+    width: 25%;
+    height: 2em;
+  }
+  
